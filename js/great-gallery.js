@@ -53,5 +53,4 @@ function onEscCloseModal(evt) {
 	if (evt.code === "Escape") {
 		onCloseModalClick(evt)
 	}
-	console.log(evt.code)
 }
